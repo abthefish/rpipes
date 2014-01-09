@@ -1,4 +1,4 @@
-/*  rpipes - email notifrication on low temperature detection */
+/*  rpipes - email notification on low temperature detection */
 /*  main.c - raspberry pi gpio specific includes              */
 
 /* 

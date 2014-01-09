@@ -3,7 +3,7 @@
 #
 #	A makefile script raspi under weezy linux
 ###############################################################################
-#  rpipes - email notifrication on low temperature detection */
+#  rpipes - email notification on low temperature detection */
 # 
 # Copyright (C) 2014 Ray Schuler (rschuler the-one-at champlain.edu)
 # 
