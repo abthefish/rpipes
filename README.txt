@@ -4,8 +4,8 @@ rpipes (raspbery pi temperature monitor)
 Looks for logical low on gpio(x) to indicate
 temperature is below a calibrated threshold.
 As of this writing, the trigger mechanism consists
-of a bimetal coil-- taken from a guage type wall 
-thermometer ($4.00)-- as a switch conecting a 
+of a bimetal coil-- taken from a gauge type wall 
+thermometer ($4.00)-- as a switch connecting a 
 pullup resistor to gnd.
 
 Requires a Raspberry Pi V2, and the components below.
@@ -32,7 +32,7 @@ Requires a Raspberry Pi V2, and the components below.
         GND
 
 The remainder of the readme file has been deleted.... oh... snap!
-It's up to contestants in the CSI-280 raspberry pi challange to 
+It's up to contestants in the CSI-280 raspberry pi challenge to 
 complete this README file and get the code running on a raspberry
 pi in Foster 202.
 
@@ -42,7 +42,7 @@ raspbery pi v2.  One minor-- and obvious-- change is required to main.c
 for the raspi to correctly email the warning message.
 
 Any student who has contributed meaningful(*) code to this project
-on github will share equally in the (to be determined) presigious
+on github will share equally in the (to be determined) prestigious
 prize!
 
 Regards and Good Luck,
